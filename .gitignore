@@ -1,0 +1,11 @@
+.DS_Store
+
+# Generated working files
+lucy-pet-run/
+lucy-pet-run-v2/
+
+# Local export archive
+lucy-pet.zip
+
+# Duplicate package copy
+/lucy/

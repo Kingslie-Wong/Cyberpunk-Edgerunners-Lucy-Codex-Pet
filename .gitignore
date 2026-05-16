@@ -9,3 +9,6 @@ lucy-pet.zip
 
 # Duplicate package copy
 /lucy/
+
+# Temporary packaging workspace
+/dist-package/

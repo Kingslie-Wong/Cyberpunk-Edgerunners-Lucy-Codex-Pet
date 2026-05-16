@@ -17,6 +17,19 @@ After downloading, unzip it. The archive contains a `lucy` folder with:
 
 Use that unzipped `lucy` folder as the pet package.
 
+## Direct Download
+
+Download the ready-to-use package:
+
+[dist/lucy-codex-pet.zip](dist/lucy-codex-pet.zip)
+
+After downloading, unzip it. The archive contains a `lucy` folder with:
+
+- `pet.json`
+- `spritesheet.webp`
+
+Use that unzipped `lucy` folder as the pet package.
+
 ## Preview
 
 ![Lucy pet contact sheet](docs/contact-sheet.png)

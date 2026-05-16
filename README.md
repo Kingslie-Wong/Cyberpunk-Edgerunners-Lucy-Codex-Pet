@@ -4,20 +4,21 @@ An animated Codex pet inspired by Lucy's cyberpunk outfit design.
 
 The package includes a transparent animated spritesheet and `pet.json` metadata for Codex-compatible pet loading.
 
-## Direct Download
+## Install from Petdex
 
-Download the ready-to-use package:
+Lucy is available on Petdex:
 
-[dist/lucy-codex-pet.zip](dist/lucy-codex-pet.zip)
+[https://petdex.crafter.run/pets/lucy](https://petdex.crafter.run/pets/lucy)
 
-After downloading, unzip it. The archive contains a `lucy` folder with:
+Install it with one command:
 
-- `pet.json`
-- `spritesheet.webp`
+```bash
+npx petdex install lucy
+```
 
-Use that unzipped `lucy` folder as the pet package.
+This drops the pet package into `~/.codex/pets/lucy/`. To activate it in Codex, open Settings -> Appearance -> Pets and select Lucy.
 
-## Direct Download
+## Manual Download
 
 Download the ready-to-use package:
 
